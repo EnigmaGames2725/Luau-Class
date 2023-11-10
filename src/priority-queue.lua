@@ -37,4 +37,8 @@ function Schema:Dequeue()
 	end
 end
 
+function Schema:Peek(n: number?)
+	return self[n or 1]
+end
+
 return PriorityQueue
