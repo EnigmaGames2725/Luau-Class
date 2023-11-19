@@ -9,4 +9,4 @@ Implementation of classes not native to the Luau language.
 - Deque
 
 ## Documentation:
-Soon™
+[Docs](https://enigmagames2725.github.io/Luau-Class/)
