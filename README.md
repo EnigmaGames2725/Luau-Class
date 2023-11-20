@@ -12,4 +12,4 @@ Implementation of classes not native to the Luau language.
 [Docs](https://enigmagames2725.github.io/Luau-Class/)
 
 ## Contributing:
-If you would like to contribute, either with a new class or a change to a current one, please create a pull request.
+Please feel free to create a Pull Request with any contributions to the library or documentation.
