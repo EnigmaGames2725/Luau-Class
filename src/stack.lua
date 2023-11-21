@@ -39,6 +39,12 @@ function Schema:Peek(Depth: number?)
 	end
 end
 
+function Schema:Iterate()
+	return function()
+		return self:Pop()
+	end
+end
+
 export type Stack = typeof(Stack.new(table.unpack({...})))
 
 return Stack
