@@ -1,3 +1,5 @@
+> [!NOTE]
+> Archived 12/27/23
 # Luau-Class
 Implementation of classes not native to the Luau language.
 
